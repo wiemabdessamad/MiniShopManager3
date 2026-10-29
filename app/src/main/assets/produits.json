@@ -1,0 +1,28 @@
+
+[
+  {
+    "id": 1,
+    "nom": "Ordinateur portable",
+    "prix": 1800.0
+  },
+  {
+    "id": 2,
+    "nom": "Souris sans fil",
+    "prix": 45.0
+  },
+  {
+    "id": 3,
+    "nom": "Clavier",
+    "prix": 80.0
+  },
+  {
+    "id": 4,
+    "nom": "Casque audio",
+    "prix": 120.0
+  },
+  {
+    "id": 5,
+    "nom": "Écran",
+    "prix": 550.0
+  }
+]
